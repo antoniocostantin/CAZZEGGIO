@@ -6,15 +6,8 @@
 }
 
 header{
-    display: inline-flex;
-    text-align: center;
-    box-sizing: border-box;
-    width: 75%;
-    padding: 1em 1em;
     background-image: url(../img/coffee-2085314.svg);
-}
-
-section{
-    display: inline-flex;
-
+    width: 75%;
+    display: inline-block;
+    vertical-align: middle;
 }
