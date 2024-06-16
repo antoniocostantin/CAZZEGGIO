@@ -7,7 +7,29 @@
 
 header{
     background-image: url(../img/coffee-2085314.svg);
-    width: 75%;
     display: inline-block;
+    vertical-align: middle;
+}
+
+.shrek{
+    height: 45px;
+    width: 35px;
+}
+
+main, header,main section,main article,h2 div{
+    border: 1px solid black;
+    width: 75%;
+}
+
+article img,section img{
+    height: 5em;
+    display: inline;
+}
+
+#immagine img{
+    border-radius: 100%;
+}
+
+section h2 span{
     vertical-align: middle;
 }
