@@ -9,8 +9,9 @@
 header{
     background-color: saddlebrown;
     background-color: ;
-    display: inline-block;
+    /* display: inline-block; */
     vertical-align: middle;
+    text-align: left;
 }
 
 .shrek{
